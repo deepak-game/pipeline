@@ -1,0 +1,29 @@
+.step {
+  width: 40px;
+  height: 40px;
+  background-color: lightgray;
+  border-radius: 50%;
+  font-size: 20px;
+  border: none;
+}
+
+.step.active {
+  background-color: blue;
+  color: #fff;
+}
+
+.updater {
+  font-size: 15px;
+  padding: 5px;
+  margin: 0 10px;
+}
+
+.step-name {
+  font-size: 25px;
+}
+
+.parent {
+  width: 400px;
+  height: 250px;
+  background-color: aliceblue;
+}
